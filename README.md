@@ -24,7 +24,7 @@ Free Forecast: Enter your URL and see how your project should look with a profes
 
 Zero-Password Safety: We respect your privacy. No login credentials or sensitive permissions are ever needed.
 
-F4F Community: A dedicated space for Indie Hackers to support each other’s projects for free.
+F4F Community: A dedicated space for Indie Hackers to support each other’s projects for free. https://www.niubistar.com/buy-stars#star-growth
 
 📈 Preview Your Project's Future
 "Don't let a rigid, artificial line ruin your hard work. Give your repository the rhythm of success."
